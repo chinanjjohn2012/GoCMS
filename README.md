@@ -48,6 +48,6 @@ http://localhost:9001
 
 http://localhost:9000
 
-帐号：demo
+帐号：admin
 密码：123456
 
