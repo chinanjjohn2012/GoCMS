@@ -16,7 +16,7 @@ import "strconv"
 import "path/filepath"
 import "admin/utils"
 import "github.com/revel/revel"
-import "github.com/revel/revel/modules/jobs/app/jobs"
+import "github.com/revel/modules/jobs/app/jobs"
 import "admin/app/models"
 
 var BasePath, _ = filepath.Abs("")
